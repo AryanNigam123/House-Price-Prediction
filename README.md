@@ -18,3 +18,11 @@
 4- Scaled numerical features for ML.
 5- Saved final processed dataset.
 
+## Day 4 progress
+1- Imported Some libraries.
+2- Define target and features.
+3- Split train/test.
+4- Building Base line Models.
+5- Evaluation
+
+
